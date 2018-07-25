@@ -1,3 +1,3 @@
 enum HTTPMethod: String {
-    case GET, POST, PUT
+    case GET, POST, PUT, DELETE
 }
